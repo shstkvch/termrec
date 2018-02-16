@@ -1,0 +1,17 @@
+{
+  "name": "termrec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "termrec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "0.0.1",
+    "node-pty": "^0.7.4",
+    "touch": "^3.1.0",
+    "tty": "^1.0.1"
+  }
+}
